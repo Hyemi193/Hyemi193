@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hyemi.</h1>
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **jhmi1379@gmail.com**
 
