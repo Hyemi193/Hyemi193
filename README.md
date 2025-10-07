@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+🛠️ Languages and Tools
 
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
