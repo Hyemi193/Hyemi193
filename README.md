@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hyemi.</h1>
 
 <p align="left">
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <br>
- 📫 How to reach me <img src="https://img.shields.io/badge/jhmi1379@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+ 🌱 I’m currently learning **Java**
+ 📫 How to reach me **jhmi1379@gmail.com**
 </p>
 
 
