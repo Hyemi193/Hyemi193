@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hyemi</h1>
 
-<p align="center">
-🌱 I’m currently learning <strong>Java</strong>  
+
+🌱 I’m currently learning <strong>Java</strong><br>
 📫 Reach me at: <a href="mailto:jhmi1379@gmail.com">jhmi1379@gmail.com</a>
-</p>
+
 
 ---
 
